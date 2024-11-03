@@ -1,3 +1,0 @@
-# DIP.morphology
-
-::: DIP.morphology

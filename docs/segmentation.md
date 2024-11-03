@@ -1,3 +1,0 @@
-# DIP.segmentation
-
-::: DIP.segmentation

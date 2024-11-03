@@ -1,3 +1,0 @@
-# DIP.operations
-
-::: DIP.operations
